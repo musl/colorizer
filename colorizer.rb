@@ -2,7 +2,7 @@
 #
 # Colorizer
 # Michael B. Hix <m@hix.io>
-# http://code.hix.io/projects/colorizer
+# https://code.hix.io/public/colorizer
 #
 # Color certain parts of text in certain buffers based on rules.
 #
